@@ -9,7 +9,17 @@ Covers two core modules: **Street Cleaning (1A)** and **Waste Collection (1B)** 
 
 ## Screenshots
 
-> *(add screenshots here once deployed)*
+**Module 1B — Waste Collection: Bin Fill-Level Heatmap**
+![Fleet Heatmap](docs/screenshots/screenshot-01-fleet-heatmap.png)
+
+**Module 1B — Fleet View: Vehicles & Bins on 3D Map**
+![Fleet Bins](docs/screenshots/screenshot-02-fleet-bins.png)
+
+**Module 1A — Street Cleaning: Assignment Wizard**
+![Cleaning Assignment](docs/screenshots/screenshot-03-cleaning-assignment.png)
+
+**Module 1A — Street Cleaning: Sector Overview**
+![Sector Overview](docs/screenshots/screenshot-04-extra.png)
 
 ---
 
