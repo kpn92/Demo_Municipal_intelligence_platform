@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150" role="img" aria-labelledby="title desc">
+  <title id="title">Δήμος Κερατσινίου Δραπετσώνας</title>
+  <desc id="desc">Λογότυπο Δήμου Κερατσινίου Δραπετσώνας</desc>
+  <rect width="420" height="150" fill="none"/>
+  <g fill="none" stroke="#f0444f" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 110 C42 104 58 106 74 112 C92 119 110 116 126 106" stroke-width="6"/>
+    <path d="M100 17 L100 132" stroke-width="5"/>
+    <path d="M84 38 L111 38 M84 55 L111 55 M84 72 L111 72 M84 89 L111 89" stroke-width="3"/>
+    <path d="M118 40 C148 50 166 70 174 100 C145 93 126 82 112 64" stroke-width="5"/>
+    <path d="M76 91 C100 95 125 95 156 86" stroke-width="5"/>
+  </g>
+  <g fill="#f0444f" font-family="Arial, 'Segoe UI', sans-serif" font-weight="800" letter-spacing="1">
+    <text x="198" y="59" font-size="26">ΔΗΜΟΣ</text>
+    <text x="198" y="92" font-size="28">ΚΕΡΑΤΣΙΝΙΟΥ</text>
+    <text x="198" y="125" font-size="28">ΔΡΑΠΕΤΣΩΝΑΣ</text>
+  </g>
+</svg>

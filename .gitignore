@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Environment — never commit real credentials
+.env
+.env.local
+.env.production
+.env.staging
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# GIS / large binary files
+*.tif
+*.tiff
+
+# Local DB
+*.db
+*.sqlite
+
+# Alembic local state
+alembic/versions/__pycache__/
