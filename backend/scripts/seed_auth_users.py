@@ -24,7 +24,7 @@ USERS = [
     },
     {
         "username": "supervisor",
-        "full_name": "Κ. Πανούσης",
+        "full_name": "G. Papadopoulos",
         "role_code": "cleaning_supervisor",
         "is_superuser": False,
     },
